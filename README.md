@@ -1,2 +1,2 @@
 # wordcloud
-grab ptt news
+make wordcloud by ptt news
