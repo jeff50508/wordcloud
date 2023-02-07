@@ -1,2 +1,2 @@
 # wordcloud
-make wordcloud by ptt news
+using ptt news to make wordcloud
